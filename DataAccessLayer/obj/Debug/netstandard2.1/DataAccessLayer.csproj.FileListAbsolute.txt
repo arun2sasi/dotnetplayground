@@ -1,0 +1,15 @@
+C:\Naveen\workspace\dotnet-playground\DataAccessLayer\bin\Debug\netstandard2.1\DataAccessLayer.deps.json
+C:\Naveen\workspace\dotnet-playground\DataAccessLayer\bin\Debug\netstandard2.1\DataAccessLayer.dll
+C:\Naveen\workspace\dotnet-playground\DataAccessLayer\bin\Debug\netstandard2.1\DataAccessLayer.pdb
+C:\Naveen\workspace\dotnet-playground\DataAccessLayer\bin\Debug\netstandard2.1\Domain.dll
+C:\Naveen\workspace\dotnet-playground\DataAccessLayer\bin\Debug\netstandard2.1\Interfaces.dll
+C:\Naveen\workspace\dotnet-playground\DataAccessLayer\bin\Debug\netstandard2.1\Interfaces.pdb
+C:\Naveen\workspace\dotnet-playground\DataAccessLayer\bin\Debug\netstandard2.1\Domain.pdb
+C:\Naveen\workspace\dotnet-playground\DataAccessLayer\obj\Debug\netstandard2.1\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Naveen\workspace\dotnet-playground\DataAccessLayer\obj\Debug\netstandard2.1\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Naveen\workspace\dotnet-playground\DataAccessLayer\obj\Debug\netstandard2.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Naveen\workspace\dotnet-playground\DataAccessLayer\obj\Debug\netstandard2.1\DataAccessLayer.AssemblyInfo.cs
+C:\Naveen\workspace\dotnet-playground\DataAccessLayer\obj\Debug\netstandard2.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Naveen\workspace\dotnet-playground\DataAccessLayer\obj\Debug\netstandard2.1\DataAccessLayer.csproj.CopyComplete
+C:\Naveen\workspace\dotnet-playground\DataAccessLayer\obj\Debug\netstandard2.1\DataAccessLayer.dll
+C:\Naveen\workspace\dotnet-playground\DataAccessLayer\obj\Debug\netstandard2.1\DataAccessLayer.pdb

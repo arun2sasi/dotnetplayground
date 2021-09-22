@@ -1,0 +1,13 @@
+C:\Naveen\workspace\dotnet-playground\Interfaces\bin\Debug\netstandard2.1\Interfaces.deps.json
+C:\Naveen\workspace\dotnet-playground\Interfaces\bin\Debug\netstandard2.1\Interfaces.dll
+C:\Naveen\workspace\dotnet-playground\Interfaces\bin\Debug\netstandard2.1\Interfaces.pdb
+C:\Naveen\workspace\dotnet-playground\Interfaces\bin\Debug\netstandard2.1\Domain.dll
+C:\Naveen\workspace\dotnet-playground\Interfaces\bin\Debug\netstandard2.1\Domain.pdb
+C:\Naveen\workspace\dotnet-playground\Interfaces\obj\Debug\netstandard2.1\Interfaces.csproj.AssemblyReference.cache
+C:\Naveen\workspace\dotnet-playground\Interfaces\obj\Debug\netstandard2.1\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Naveen\workspace\dotnet-playground\Interfaces\obj\Debug\netstandard2.1\Interfaces.AssemblyInfoInputs.cache
+C:\Naveen\workspace\dotnet-playground\Interfaces\obj\Debug\netstandard2.1\Interfaces.AssemblyInfo.cs
+C:\Naveen\workspace\dotnet-playground\Interfaces\obj\Debug\netstandard2.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Naveen\workspace\dotnet-playground\Interfaces\obj\Debug\netstandard2.1\Interfaces.csproj.CopyComplete
+C:\Naveen\workspace\dotnet-playground\Interfaces\obj\Debug\netstandard2.1\Interfaces.dll
+C:\Naveen\workspace\dotnet-playground\Interfaces\obj\Debug\netstandard2.1\Interfaces.pdb

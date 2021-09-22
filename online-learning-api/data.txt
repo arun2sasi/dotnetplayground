@@ -1,0 +1,13 @@
+[{
+    'Id': 'java',
+    'Course': 'Java',
+    'Description': 'Java for Backend Developers',
+    'Author': 'John',
+    'Price': '10'
+}, {
+    'Id': 'angular',
+    'Course': 'Angular',
+    'Description': 'Angular Deep Dive',
+    'Author': 'Britto',
+    'Price': '10'
+}]
